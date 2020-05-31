@@ -1,0 +1,23 @@
+{
+  "name": "feeba-email-template",
+  "version": "1.0.0",
+  "description": "[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=8N47UXGWGZUY4)",
+  "main": "index.js",
+  "scripts": {
+    "build": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/teamboxinc/feeba-email-template.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/teamboxinc/feeba-email-template/issues"
+  },
+  "homepage": "https://github.com/teamboxinc/feeba-email-template#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-inline-css": "^3.5.0"
+  }
+}
